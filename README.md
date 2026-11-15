@@ -105,3 +105,6 @@ This project demonstrates the application of data science, statistical analysis 
 Domain: Data Science | Public Health Analytics | Predictive Modelling
 
 Data Source: World Health Organization (WHO).
+## Dashboard Preview
+
+![Nigeria Malaria Intelligence Dashboard](Screenshot 2026-11-15 185024)
