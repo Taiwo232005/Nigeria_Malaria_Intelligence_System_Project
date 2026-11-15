@@ -107,4 +107,4 @@ Domain: Data Science | Public Health Analytics | Predictive Modelling
 Data Source: World Health Organization (WHO).
 ## Dashboard Preview
 
-![Nigeria Malaria Intelligence Dashboard](Screenshot%2026-11-15%185024.png)
+![Nigeria Malaria Intelligence Dashboard](Screenshot%202026-11-15%20185024.png)
